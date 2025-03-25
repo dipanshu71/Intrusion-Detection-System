@@ -8,4 +8,4 @@
 ![Image](https://github.com/user-attachments/assets/fbac0e2a-4797-4d0e-a346-633d23e56e99)
 
 ### Publication at IEEE’s 56th International Carnahan Conference on Security Technology (2023).
-
+![Image](https://github.com/user-attachments/assets/c652fba8-f577-4db7-aac3-57d8f4793365)
